@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTE version="1.0">
+	<Documento ID="T33_F4-2019JulWed160130">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>33</TipoDTE>
+				<Folio>4</Folio>
+				<FchEmis>2019-07-05</FchEmis>
+				<FmaPago>2</FmaPago>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>76929437-6</RUTEmisor>
+				<RznSoc>FABRICA DE MUEBLES INNOVITA SPA</RznSoc>
+				<GiroEmis>FABRICA DE MUEBLES</GiroEmis>
+				<Telefono>967595902</Telefono>
+				<CorreoEmisor>CAMILO.PEREZ@INNOVAMOBEL.CL</CorreoEmisor>
+				<Acteco>464901</Acteco>
+				<DirOrigen>ROSA ESTER 03361</DirOrigen>
+				<CmnaOrigen>LA PINTANA</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>17558736-5</RUTRecep>
+				<RznSocRecep>Angeles Enterprises</RznSocRecep>
+				<GiroRecep>SERVICIOS INFORMATICOS</GiroRecep>
+				<DirRecep>Vicuña Mackena 7801</DirRecep>
+				<CmnaRecep>LA FLORIDA</CmnaRecep>
+				<CiudadRecep>SANTIAGO</CiudadRecep>
+			</Receptor>
+			<Totales>
+				<MntNeto>1067485</MntNeto>
+				<TasaIVA>19</TasaIVA>
+				<IVA>202822</IVA>
+				<MntTotal>1270307</MntTotal>
+			</Totales>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<NmbItem>Sofa Agatha Tela-Gris / Bariloche</NmbItem>
+			<QtyItem>1</QtyItem>
+			<PrcItem>141170</PrcItem>
+			<MontoItem>141170</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>2</NroLinDet>
+			<NmbItem>Guitarra Solar</NmbItem>
+			<QtyItem>2</QtyItem>
+			<PrcItem>499000</PrcItem>
+			<DescuentoPct>5</DescuentoPct>
+			<DescuentoMonto>49900</DescuentoMonto>
+			<MontoItem>948100</MontoItem>
+		</Detalle>
+		<DscRcgGlobal>
+			<NroLinDR>1</NroLinDR>
+			<TpoMov>D</TpoMov>
+			<TpoValor>%</TpoValor>
+			<ValorDR>2</ValorDR>
+		</DscRcgGlobal>
+		<TED version="1.0">
+			<DD>
+				<RE>76929437-6</RE>
+				<TD>33</TD>
+				<F>4</F>
+				<FE>2019-07-05</FE>
+				<RR>17558736-5</RR>
+				<RSR>Angeles Enterprises</RSR>
+				<MNT>1270307</MNT>
+				<IT1>Sofa Agatha Tela-Gris / Bariloche</IT1>
+				<CAF version="1.0">
+<DA>
+<RE>76929437-6</RE>
+<RS>FABRICA DE MUEBLES INNOVITA SPA</RS>
+<TD>33</TD>
+<RNG><D>1</D><H>50</H></RNG>
+<FA>2019-05-22</FA>
+<RSAPK><M>vBQJMaHZAI6IOU1PwWg4y8g6zqluR1/JgmhhympG+X5590KaQ0w65qTTgwDCeWJqmmsf1JboLutj61XP4om17Q==</M><E>Aw==</E></RSAPK>
+<IDK>100</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">gMp8hpMYey6MT4ilo+dD7Y9PJiU1a34W74iytIosvRjjQ484HgmWJkW1VHs9U6uZ/tiNrQuPcQC7+7S3DZgF+w==</FRMA>
+</CAF><TSTED>2019-07-17T16:01:30</TSTED>
+			</DD>
+		<FRMT algoritmo="SHA1withRSA">MQRQP4Uisd8MYZ1+4MTtPHy6nOtWOZL6/WhXUvaL0ChsGvzKroIuv0FOEd5bBNpqVax0eqza8dtJ7Tma2VIjiQ==</FRMT>
+</TED>
+		<TmstFirma>2019-07-17T16:01:30</TmstFirma>
+	</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#T33_F4-2019JulWed160130"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>nZgC4PnZgBNcFRwycXIyih8G8C0=</DigestValue></Reference></SignedInfo><SignatureValue>BCrAVwwkRMzdDlyPOCxpwQV1sZV9mI5W2q9OD/jAHGfX+BFs0jFqA/zmH5ljtpS7QbWQeni5m2609SOVTAoRvm7HAbREcUgI1Wh3zl1Hy97xXyfESzZgSVafRDagr7S79LckyRUKmq7Vcshwa6OjPt4JZsP5yO/cGRjBeOsfYa4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>oBdF7V84Rs5fbidvTyMSCOm/KVd6CjRQr6qqeb6zeIsQcRTJgyI5Y0VzCZyF1Vzv8tRY+1xpIMDW
+3rSsKc4B0qYEc9KE4dRClEB3cyQVSfmSr4hPhZUl3D2sDdfAS79pCYiYJsWU3tnTQc4kqhxnEX/T
+EEW0nziu5SblsEUH4Ck=
+</Modulus><Exponent>AQAB
+</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGYTCCBUmgAwIBAgIKSxiobQAAAA1JxTANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xOTAzMDYyMDA1NThaFw0yMjAzMDUyMDA1NTha
+MIHiMQswCQYDVQQGEwJDTDEqMCgGA1UECAwhUkVHScOTTiBNRVRST1BPTElUQU5BIERFIFNBTlRJ
+QUdPMREwDwYDVQQHEwhTYW50aWFnbzEeMBwGA1UEChMVU0lTR0VOIENISUxFIExJTUlUQURBMR8w
+HQYDVQQLExZTRVJWSUNJT1MgSU5GT1JNQVRJQ09TMSkwJwYDVQQDEyBTRVJHSU8gRkVMSVBFIE1F
+TkRPWkEgU0NITEVOS0VSVDEoMCYGCSqGSIb3DQEJARYZQ0VSVElGSUNBQ0lPTkVTQE5FVERURS5D
+TDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoBdF7V84Rs5fbidvTyMSCOm/KVd6CjRQr6qq
+eb6zeIsQcRTJgyI5Y0VzCZyF1Vzv8tRY+1xpIMDW3rSsKc4B0qYEc9KE4dRClEB3cyQVSfmSr4hP
+hZUl3D2sDdfAS79pCYiYJsWU3tnTQc4kqhxnEX/TEEW0nziu5SblsEUH4CkCAwEAAaOCAqkwggKl
+MIIBTwYDVR0gBIIBRjCCAUIwggE+BggrBgEEAcNSBTCCATAwLQYIKwYBBQUHAgEWIWh0dHA6Ly93
+d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BTLmh0bTCB/gYIKwYBBQUHAgIwgfEege4ARQBsACAAcgBlAHMA
+cABvAG4AZABlAHIAIABlAHMAdABlACAAZgBvAHIAbQB1AGwAYQByAGkAbwAgAGUAcwAgAHUAbgAg
+AHIAZQBxAHUAaQBzAGkAdABvACAAaQBuAGQAaQBzAHAAZQBuAHMAYQBiAGwAZQAgAHAAYQByAGEA
+IABkAGEAcgAgAGkAbgBpAGMAaQBvACAAYQBsACAAcAByAG8AYwBlAHMAbwAgAGQAZQAgAGMAZQBy
+AHQAaQBmAGkAYwBhAGMAaQDzAG4ALgAgAFAAbwBzAHQAZQByAGkAbwByAG0AZQBuAHQAZQAsMB0G
+A1UdDgQWBBT2iDvpjryMmRtQmHlSR24dBPjKZTALBgNVHQ8EBAMCBPAwIwYDVR0RBBwwGqAYBggr
+BgEEAcEBAaAMFgoxNjEyNTc1OC0zMB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4G
+A1UdHwQ3MDUwM6AxoC+GLWh0dHA6Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNhRkVT
+LmNybDA6BggrBgEFBQcBAQQuMCwwKgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3NwLmVjZXJ0Y2hpbGUu
+Y2wvb2NzcDA9BgkrBgEEAYI3FQcEMDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGB
+y54UhqiCWAIBZAIBBDAjBgNVHRIEHDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZI
+hvcNAQEFBQADggEBAHrkEVTxjavDjGO/3G5jlgVJ3l4bNAQmHmQ8uSa0RcbNksHrC+DpEDiqYAjg
+8XW5l4ZzGYdPOIBoZAJ7NCq3Q/Kuj7lpmpyshUK2fWpCDi53usC8XcGuK54jbN1QinIM6uEpAEy1
+yGyeAYXTMna+rn2VyimvBuDUZTbqCjhR5nFnCyZJ29/AHV9ovwX7NVF+ZOoJf9WMr8ehcIcvkyxg
+fAi4ZvsseTohKYv/8+0QroZWg1X3VoD3YSi+cNbob4mQp/tFDhIPahEW6q1L7lEyYgyRLm22p8M+
+5wLF6x3YqDhF7RXdMv5/cE9M1pTBssrH5istSYKtJYxeHKcau+U20Gk=</X509Certificate></X509Data></KeyInfo></Signature></DTE>
